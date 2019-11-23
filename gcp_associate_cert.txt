@@ -1,0 +1,3 @@
+Links to read:
+
+Compute Instance Metadata: https://cloud.google.com/compute/docs/storing-retrieving-metadata
